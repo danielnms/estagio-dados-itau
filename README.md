@@ -4,6 +4,7 @@
 - Books: 163000 unidades vendidas  
 - Eletronics: 109328 unidades vendidas  
 - Home: 108509 unidades vendidas  
+![mais vendidos 3 anos](mais-vendidos-3-anos.png)
 
 ## Qual o produto mais caro e o mais barato?  
 - O produto mais caro custa: 500  
@@ -18,6 +19,8 @@
 - categoria mais vendida: Clothing
 - categoria menos vendida: Home
 
+![quantidade vendida por categoria](qtd-vendida-categoria.png)
+
 ## Qual a categoria mais cara e a mais barata?  
 - Média dos preços por categoria:  
 - Home: 254,84  
@@ -27,6 +30,8 @@
 
 - categoria mais cara: Home  
 - categoria mais barata: Clothing  
+
+![media preço por categoria](media-preco-categoria.png)
 
 # Qual o protudo com o melhor e o pior NPS?
 - Nesta análise, primeiramente foi identificada a média de NPS para cada categoria.   
@@ -38,7 +43,9 @@
 - Eletronics: 4.97    
 
 - melhor NPS: Home  
-- pior NPS: Eletronics  
+- pior NPS: Eletronics
+
+![media NPS](media-NPS.png)
 
 ## Analisando a base de dados, qual o tipo de público (considerando gênero e idade) e o canal ideal para vender determinado tipo de produto?  
 
@@ -52,4 +59,7 @@
 	- Clothing: Female  
 	- Books: Male  
 	- Eletronics: Male  
-	- Home: Male  
+	- Home: Male
+
+![melhor canal homem](melhor-canal-homem.png)
+![melhor canal mulher](melhor-canal-mulher.png)
